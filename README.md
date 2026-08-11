@@ -6,7 +6,7 @@ I build full-stack web applications using ASP.NET Core and React.
 
 At the moment, I am focused on delving deeper into supplementary study materials and working on new, interesting, and large-scale projects.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 - React
@@ -31,7 +31,7 @@ At the moment, I am focused on delving deeper into supplementary study materials
 
 ## My Projects
 
-### 🛒 Crypto Store
+### Crypto Store
 Full-stack / frontend project for a cryptocurrency-related store.
 
 `C#` `React` `ASP.NET` `JavaScript`
